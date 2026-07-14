@@ -2,11 +2,11 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
+- **Name:** Macarena Acosta
+- **What to call them:** Macarena
+- **Pronouns:**
 - **Timezone:**
-- **Notes:**
+- **Notes:** Contacto inicial por Telegram. Interesada en probar integraciones OpenClaw + Composio.
 
 ## Context
 
